@@ -1,0 +1,23 @@
+.panda-bg-color{
+    background-color:#fde8e6;
+    border-radius: 10px;
+    padding: auto;
+}
+.panda-btn-color{
+    background-color: rgb(253, 78, 131);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    height: 40px;
+    width: 100px;
+    margin: auto;
+
+}
+.panda-color{
+    color:rgb(253, 78, 131);
+
+   
+}
+.panda-iteam img{
+    width: 100px;
+}
